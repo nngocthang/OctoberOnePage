@@ -3,8 +3,5 @@
 }
 h1, h2, h3, h4, h5, h6 {
 	color: rgb(80, 80, 253);
-	border-spacing: 1.5rem;
-}
-.header-row{
-    height: 50px;;
+	background: rgba(0, 0, 0, 0.637)
 }
