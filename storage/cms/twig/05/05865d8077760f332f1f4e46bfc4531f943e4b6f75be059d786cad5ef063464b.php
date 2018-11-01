@@ -30,7 +30,7 @@ class __TwigTemplate_c91b6077979f7e260da7dee4296f281dfd30e7b8ab7411c1422788402d3
     </div>
 </div>
 <div class=\" bg-light-5\">
-    <div class=\"container\">
+    <div id=\"partner-container\" class=\"container\">
         <div class=\"row align-items-center justify-content-center appear-animation\" data-appear-animation=\"fadeInRightShorter\">
             <div class=\"col-4 col-md-1-5 text-center text-md-left\">
                 <img src=\"";
@@ -100,7 +100,7 @@ class __TwigTemplate_c91b6077979f7e260da7dee4296f281dfd30e7b8ab7411c1422788402d3
     </div>
 </div>
 <div class=\" bg-light-5\">
-    <div class=\"container\">
+    <div id=\"partner-container\" class=\"container\">
         <div class=\"row align-items-center justify-content-center appear-animation\" data-appear-animation=\"fadeInRightShorter\">
             <div class=\"col-4 col-md-1-5 text-center text-md-left\">
                 <img src=\"{{'assets/img/logos/logo_netnam.png'|theme}}\" width=\"170\" alt=\"\" class=\"img-fluid\">

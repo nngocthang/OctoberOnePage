@@ -3,5 +3,8 @@
 }
 h1, h2, h3, h4, h5, h6 {
 	color: rgb(80, 80, 253);
-	background: rgba(0, 0, 0, 0.637)
+	padding-block-start: 1.5rem;
+}
+#partner-container{
+	padding-block-start:2rem;
 }

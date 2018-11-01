@@ -1,4 +1,4 @@
-1541038933a:1:{s:11:"partner.htm";a:5:{s:8:"fileName";s:11:"partner.htm";s:7:"content";s:1763:"<div class="row text-center">
+1541042981a:1:{s:11:"partner.htm";a:5:{s:8:"fileName";s:11:"partner.htm";s:7:"content";s:1786:"<div class="row text-center">
     <div class="col">
         <div class="overflow-hidden mb-5">
             <h2 class="font-weight-bold mb-1 appear-animation text-uppercase" data-appear-animation="maskUp"
@@ -8,7 +8,7 @@
     </div>
 </div>
 <div class=" bg-light-5">
-    <div class="container">
+    <div id="partner-container" class="container">
         <div class="row align-items-center justify-content-center appear-animation" data-appear-animation="fadeInRightShorter">
             <div class="col-4 col-md-1-5 text-center text-md-left">
                 <img src="{{'assets/img/logos/logo_netnam.png'|theme}}" width="170" alt="" class="img-fluid">
@@ -30,7 +30,7 @@
     <div class="section section-background section-height-4" data-plugin-image-background style="padding-block-end: inherit">
         <img class="h-100 w-100" src="{{'assets/img/backgrounds/background-3.jpg'|theme}}">
     </div>
-</div>";s:5:"mtime";i:1540963500;s:6:"markup";s:1763:"<div class="row text-center">
+</div>";s:5:"mtime";i:1541042378;s:6:"markup";s:1786:"<div class="row text-center">
     <div class="col">
         <div class="overflow-hidden mb-5">
             <h2 class="font-weight-bold mb-1 appear-animation text-uppercase" data-appear-animation="maskUp"
@@ -40,7 +40,7 @@
     </div>
 </div>
 <div class=" bg-light-5">
-    <div class="container">
+    <div id="partner-container" class="container">
         <div class="row align-items-center justify-content-center appear-animation" data-appear-animation="fadeInRightShorter">
             <div class="col-4 col-md-1-5 text-center text-md-left">
                 <img src="{{'assets/img/logos/logo_netnam.png'|theme}}" width="170" alt="" class="img-fluid">

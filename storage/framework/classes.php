@@ -28,4 +28,6 @@
   'RainLab\\Blog\\Models\\PostExport' => 'plugins\\rainlab\\blog\\models\\PostExport.php',
   'RainLab\\Blog\\FormWidgets\\BlogMarkdown' => 'plugins\\rainlab\\blog\\formwidgets\\BlogMarkdown.php',
   'backend\\Controllers\\userroles' => 'modules\\backend\\controllers\\userroles.php',
+  'system\\Controllers\\mailpartials' => 'modules\\system\\controllers\\mailpartials.php',
+  'backend\\Controllers\\usergroups' => 'modules\\backend\\controllers\\usergroups.php',
 );
