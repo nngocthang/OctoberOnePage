@@ -1,0 +1,6 @@
+plugin:
+    name: 'guest.messagetous::lang.plugin.name'
+    description: 'guest.messagetous::lang.plugin.description'
+    author: Guest
+    icon: oc-icon-comment
+    homepage: ''
