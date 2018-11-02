@@ -1,0 +1,30 @@
+columns:
+    id:
+        label: id
+        type: number
+    fullname:
+        label: fullname
+        type: text
+        searchable: true
+        sortable: true
+    email:
+        label: email
+        type: text
+        searchable: true
+        sortable: true
+    subject:
+        label: subject
+        type: text
+        searchable: true
+        sortable: true
+    content:
+        label: content
+        type: text
+        searchable: true
+    created_at:
+        label: created_at
+        type: datetime
+        sortable: true
+    updated_at:
+        label: updated_at
+        type: datetime

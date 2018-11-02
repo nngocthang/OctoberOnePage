@@ -1,5 +1,0 @@
-1.0.1:
-    - 'Initialize plugin.'
-1.0.2:
-    - 'Created table guest_messagetous_'
-    - builder_table_create_guest_messagetous_.php

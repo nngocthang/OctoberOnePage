@@ -1,0 +1,30 @@
+fields:
+    fullname:
+        label: 'Họ tên'
+        span: left
+        placeholder: 'Họ tên'
+        required: 0
+        context:
+            - create
+        type: text
+    email:
+        label: E-mail
+        span: auto
+        required: 1
+        context:
+            - create
+        type: text
+    subject:
+        label: 'Tiêu đề'
+        span: full
+        required: 1
+        context:
+            - create
+        type: text
+    content:
+        label: 'Nội dung'
+        size: large
+        span: full
+        context:
+            - create
+        type: textarea

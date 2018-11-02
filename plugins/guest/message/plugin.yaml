@@ -1,0 +1,14 @@
+plugin:
+    name: 'guest.message::lang.plugin.name'
+    description: 'guest.message::lang.plugin.description'
+    author: Guest
+    icon: oc-icon-envelope
+    homepage: ''
+navigation:
+    Message:
+        label: Mesage
+        url: /Message
+        icon: icon-envelope
+        permissions:
+            - guest
+            - publisher

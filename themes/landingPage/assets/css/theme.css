@@ -5644,7 +5644,7 @@ html.gap-outside #header .header-container:after {
   font-weight:bold;
 } */
 #blog {
-	background-image: url(../img/chucnang/tuyendung.jpg);
+	background-image: url('../images/blog-background.jpg');
 	background-repeat: no-repeat;
 	background-position: bottom;
 	background-attachment: fixed;

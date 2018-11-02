@@ -1,0 +1,11 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table guest_message_'
+    - builder_table_create_guest_message_.php
+1.0.3:
+    - 'Updated table guest_message_'
+    - builder_table_update_guest_message_.php
+1.0.4:
+    - 'Updated table guest_message_'
+    - builder_table_update_guest_message__2.php
