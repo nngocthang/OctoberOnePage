@@ -1,4 +1,4 @@
-1541149381a:1:{s:11:"partner.htm";a:5:{s:8:"fileName";s:11:"partner.htm";s:7:"content";s:1755:"<div class="row text-center">
+1541152552a:1:{s:11:"partner.htm";a:5:{s:8:"fileName";s:11:"partner.htm";s:7:"content";s:1750:"<div class="row text-center">
     <div class="col">
         <div class="overflow-hidden mb-5">
             <h2 class="font-weight-bold mb-1 appear-animation text-uppercase" data-appear-animation="maskUp"
@@ -14,7 +14,7 @@
                 <img src="{{'partnerLogo/logo_netnam.png'|media}}" width="170" alt="" class="img-fluid">
             </div>
             <div class="col-4 col-md-1-5 text-center">
-                <img src="{{'assets/img/logos/logo_VNCS.png'|media}}" width="80" alt="" class="img-fluid">
+                <img src="{{'partnerLogo/logo_VNCS.png'|media}}" width="80" alt="" class="img-fluid">
             </div>
             <div class="col-4 col-md-1-5 text-center">
                 <img src="{{'partnerLogo/logo_VTVcab.png'|media}}" width="100" alt="" class="img-fluid">
@@ -30,7 +30,7 @@
     <div class="section section-background section-height-4" data-plugin-image-background style="padding-block-end: inherit">
         <img class="h-100 w-100" src="{{'backgrounds/background-3.jpg'|media}}">
     </div>
-</div>";s:5:"mtime";i:1541148670;s:6:"markup";s:1755:"<div class="row text-center">
+</div>";s:5:"mtime";i:1541151075;s:6:"markup";s:1750:"<div class="row text-center">
     <div class="col">
         <div class="overflow-hidden mb-5">
             <h2 class="font-weight-bold mb-1 appear-animation text-uppercase" data-appear-animation="maskUp"
@@ -46,7 +46,7 @@
                 <img src="{{'partnerLogo/logo_netnam.png'|media}}" width="170" alt="" class="img-fluid">
             </div>
             <div class="col-4 col-md-1-5 text-center">
-                <img src="{{'assets/img/logos/logo_VNCS.png'|media}}" width="80" alt="" class="img-fluid">
+                <img src="{{'partnerLogo/logo_VNCS.png'|media}}" width="80" alt="" class="img-fluid">
             </div>
             <div class="col-4 col-md-1-5 text-center">
                 <img src="{{'partnerLogo/logo_VTVcab.png'|media}}" width="100" alt="" class="img-fluid">

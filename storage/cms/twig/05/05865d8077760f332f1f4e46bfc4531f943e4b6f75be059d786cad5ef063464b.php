@@ -41,7 +41,7 @@ class __TwigTemplate_c91b6077979f7e260da7dee4296f281dfd30e7b8ab7411c1422788402d3
             <div class=\"col-4 col-md-1-5 text-center\">
                 <img src=\"";
         // line 17
-        echo $this->extensions['System\Twig\Extension']->mediaFilter("assets/img/logos/logo_VNCS.png");
+        echo $this->extensions['System\Twig\Extension']->mediaFilter("partnerLogo/logo_VNCS.png");
         echo "\" width=\"80\" alt=\"\" class=\"img-fluid\">
             </div>
             <div class=\"col-4 col-md-1-5 text-center\">
@@ -106,7 +106,7 @@ class __TwigTemplate_c91b6077979f7e260da7dee4296f281dfd30e7b8ab7411c1422788402d3
                 <img src=\"{{'partnerLogo/logo_netnam.png'|media}}\" width=\"170\" alt=\"\" class=\"img-fluid\">
             </div>
             <div class=\"col-4 col-md-1-5 text-center\">
-                <img src=\"{{'assets/img/logos/logo_VNCS.png'|media}}\" width=\"80\" alt=\"\" class=\"img-fluid\">
+                <img src=\"{{'partnerLogo/logo_VNCS.png'|media}}\" width=\"80\" alt=\"\" class=\"img-fluid\">
             </div>
             <div class=\"col-4 col-md-1-5 text-center\">
                 <img src=\"{{'partnerLogo/logo_VTVcab.png'|media}}\" width=\"100\" alt=\"\" class=\"img-fluid\">

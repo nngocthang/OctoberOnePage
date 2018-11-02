@@ -1,0 +1,4 @@
+title: Message
+modelClass: Guest\Message\Models\Message
+toolbar:
+    buttons: reorder_toolbar

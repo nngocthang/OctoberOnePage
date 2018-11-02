@@ -1,0 +1,11 @@
+name: Message
+modelClass: Guest\Message\Models\Message
+form: $/guest/message/models/message/message.yaml
+defaultRedirect: guest/message/message
+create:
+    redirect: 'guest/message/message/update/:id'
+    redirectClose: guest/message/message
+update:
+    redirect: guest/message/message
+    redirectClose: guest/message/message
+preview: {  }
